@@ -59,16 +59,10 @@
           "template": "use dmy dates"
         },
         {
-          "template": "okina"
-        },
-        {
           "list": [
             "Disputed: 24 May 2021 – 23 July 2021"
           ],
           "template": "efn"
-        },
-        {
-          "template": "okina"
         }
       ],
       "infoboxes": [
@@ -89,11 +83,11 @@
             "text": "Deputy Prime Minister of Samoa"
           },
           "primeminister": {
-            "text": "Fiamē Naomi Mataafa",
+            "text": "Naomi Mataʻafa",
             "links": [
               {
                 "type": "internal",
-                "page": "Fiamē Naomi Mataafa"
+                "page": "Naomi Mataʻafa"
               }
             ]
           },
@@ -101,18 +95,30 @@
             "text": "24 May 2021"
           },
           "predecessor": {
-            "text": "Fiamē Naomi Mataafa (2020)"
+            "text": "Naomi Mataʻafa (2020)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Naomi Mataʻafa"
+              }
+            ]
           },
-          "office4": {
+          "office1": {
             "text": "Minister of Customs and Revenue"
           },
-          "primeminister4": {
-            "text": "Fiamē Naomi Mata’afa"
-          },
-          "term_start4": {
+          "term_start1": {
             "text": "24 May 2021"
           },
-          "predecessor4": {
+          "primeminister1": {
+            "text": "Naomi Mata’afa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Naomi Mata’afa"
+              }
+            ]
+          },
+          "predecessor1": {
             "text": "Tialavea Tionisio Hunt",
             "links": [
               {
@@ -121,16 +127,16 @@
               }
             ]
           },
-          "constituency_mp5": {
+          "constituency_mp2": {
             "text": "Gagaemauga No. 1"
           },
-          "parliament5": {
+          "parliament2": {
             "text": "Samoan"
           },
-          "term_start5": {
+          "term_start2": {
             "text": "9 April 2021"
           },
-          "predecessor5": {
+          "predecessor2": {
             "text": "Sala Fata Pinati",
             "links": [
               {
