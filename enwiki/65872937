@@ -533,9 +533,63 @@
     {
       "title": "References",
       "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
       "templates": [
         {
           "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-par"
+        },
+        {
+          "before": "Faasootauloa Pati Taulapapa",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member of the Samoan Parliament for Gagaemauga No. 2",
+          "years": "2006—2015",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Faasootauloa Pati Taulapapa",
+          "template": "s-aft"
+        },
+        {
+          "before": "Tapuai Toese Ah Sam",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member of the Samoan Parliament for Salega East",
+          "years": "2016–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Niko Lee Hang",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Works, Transport and Infrastructure",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
         }
       ]
     }

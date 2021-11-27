@@ -1546,6 +1546,25 @@
               "text": "However, he was not convicted and was subsequently reappointed to cabinet."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In early November 2021, the United Nation’s office in Samoa recommended legalising abortion and same-sex marriage as part of a Universal periodic review for the UN Human Rights Council."
+            },
+            {
+              "text": "Opposition leader Tuila'epa protested the suggestion, implying that the FAST government had raised discussions on these policies."
+            },
+            {
+              "text": "Fiamē subsequently stated that abortions and same-sex marriage were ‘not on the government’s agenda’ and that it was the UN office, not her party, that had increased attention on these issues."
+            },
+            {
+              "text": "She also warned UN employees to ‘not interfere with Samoan politics’."
+            },
+            {
+              "text": "FAST chairman and deputy leader La’auli shared this sentiment, expressing that these policies go against Samoa’s ‘culture and Christian beliefs’."
+            }
+          ]
         }
       ],
       "references": [
@@ -1735,6 +1754,26 @@
           "publisher": "Talamua Online",
           "access-date": "21 October 2021",
           "date": "20 October 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author1": "Lagi Keresoma",
+          "title": "“UN Employees Should Not Interfere with Samoa Politics” – PM Fiame",
+          "url": "https://talamua.com/2021/11/13/un-employees-should-not-interfere-with-samoa-politics-pm-fiame/",
+          "publisher": "Talamua Online",
+          "access-date": "27 November 2021",
+          "date": "12 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author1": "Sialai Sarafina Sanerivi",
+          "title": "Opposition leader rejects a call to legalise abortion in Samoa.",
+          "url": "https://www.samoaobserver.ws/category/samoa/94200",
+          "publisher": "Samoa Observer",
+          "access-date": "27 November 2021",
+          "date": "5 November 2021",
           "template": "citation",
           "type": "web"
         }
