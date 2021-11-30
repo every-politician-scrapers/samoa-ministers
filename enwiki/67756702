@@ -346,24 +346,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "Notes",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "notelist"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
     }
   ]
 }
