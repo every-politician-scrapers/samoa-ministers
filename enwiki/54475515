@@ -64,21 +64,16 @@
       "infoboxes": [
         {
           "honorific_prefix": {
-            "text": "His Highness Tuimalealiʻifano",
+            "text": "His Highness",
             "links": [
               {
                 "type": "internal",
                 "page": "His Highness"
-              },
-              {
-                "text": "Tuimalealiʻifano",
-                "type": "internal",
-                "page": "Tuimaleali'ifano"
               }
             ]
           },
           "name": {
-            "text": "Vaʻaletoʻa Sualauvi II"
+            "text": "Tuimalealiʻifano Vaʻaletoʻa Sualauvi II"
           },
           "image": {
             "text": "Va'aleto'a Sualauvi II Feb 2018 (cropped).jpg"
