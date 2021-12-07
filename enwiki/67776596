@@ -91,6 +91,23 @@
               "text": "On 23 July 2021 the Court of Appeal ruled that the swearing-in ceremony was constitutional and binding, and that FAST had been the government since 24 May."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In December 2021 Matamua suspended the appointment process for the Deputy President for the Land and Titles Court of Samoa on the grounds that a \"drafting error\" in the Land and Titles Bill meant that there were no legal provisions for appointments to the court.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Land and Titles Court of Samoa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Land and Titles Bill"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
@@ -221,6 +238,16 @@
           "publisher": "Talamua Online",
           "access-date": "5 September 2021",
           "date": "29 July 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.samoaobserver.ws/category/samoa/95611",
+          "title": "Justice Minister halts L.T.C. Deputy President appointment",
+          "publisher": "Samoa Observer",
+          "author": "Matai'a Lanuola Tusani T - Ah Tong",
+          "date": "6 December 2021",
+          "access-date": "6 December 2021",
           "template": "citation",
           "type": "web"
         },
