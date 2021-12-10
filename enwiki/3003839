@@ -29,7 +29,7 @@
         {
           "sentences": [
             {
-              "text": "Fiamē Naomi Mataafa (born 29 April 1957) is a Samoan politician and High Chiefess (matai) who has served as the seventh Prime Minister of Samoa and leader of the Faatuatua i le Atua Samoa ua Tasi (FAST) party since 2021.",
+              "text": "Afioga Fiamē Naomi Mataafa (born 29 April 1957) is a Samoan politician and High Chiefess (matai) who has served as the seventh Prime Minister of Samoa and leader of the Faatuatua i le Atua Samoa ua Tasi (FAST) party since 2021.",
               "links": [
                 {
                   "text": "Samoan",
@@ -53,8 +53,8 @@
               ],
               "formatting": {
                 "bold": [
-                  "Fiamē",
-                  "Naomi Mataafa"
+                  "Afioga",
+                  "Fiamē Naomi Mataafa"
                 ],
                 "italic": [
                   "matai"
@@ -217,7 +217,7 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "The Honourable",
+            "text": "The Honourable Afioga",
             "links": [
               {
                 "type": "internal",
@@ -226,7 +226,7 @@
             ]
           },
           "image": {
-            "text": "Hon. Fiamē Naomi Mata'afa (cropped).jpg"
+            "text": "Hon. Fiamē Naomi Mata'afa (cropped1).jpg"
           },
           "caption": {
             "text": "Fiamē Naomi Mataʻafa in 2021"
@@ -490,6 +490,23 @@
           "birth_date": {
             "text": "April 29, 1957"
           },
+          "birth_place": {
+            "text": "Apia, Western Samoa Trust Territory (now Samoa)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Apia"
+              },
+              {
+                "type": "internal",
+                "page": "Western Samoa Trust Territory"
+              },
+              {
+                "type": "internal",
+                "page": "Samoa"
+              }
+            ]
+          },
           "party": {
             "text": "Faatuatua i le Atua Samoa ua Tasi (2021–present)",
             "links": [
@@ -554,6 +571,8 @@
           "title": "Hon. Fiame Naomi Mata'afa",
           "url": "https://www.fastparty.ws/about-8",
           "access-date": "26 August 2021",
+          "archive-url": "https://web.archive.org/web/20211109205050/https://www.fastparty.ws/about-8",
+          "archive-date": "9 November 2021",
           "template": "citation",
           "type": "web"
         },
@@ -562,6 +581,20 @@
           "url": "https://www.forumsec.org/tuilaepa-lupesoliai-neioti-aiono-sailele-malielegaoi/",
           "publisher": "Pacific Islands Forum",
           "access-date": "26 August 2021",
+          "archive-url": "https://web.archive.org/web/20211109205049/https://www.forumsec.org/tuilaepa-lupesoliai-neioti-aiono-sailele-malielegaoi/",
+          "archive-date": "9 November 2021",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Palemia",
+          "url": "https://www.samoagovt.ws/directories/pm-fiame_profile/",
+          "website": "www.samoagovt.ws",
+          "access-date": "9 December 2021",
+          "archive-url": "https://web.archive.org/web/20211111071337/https://www.samoagovt.ws/directories/pm-fiame_profile/",
+          "archive-date": "11 November 2021",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },

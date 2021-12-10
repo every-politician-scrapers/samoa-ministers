@@ -124,7 +124,7 @@
             "text": "Vaimauga no. 4"
           },
           "parliament5": {
-            "text": "Samoa"
+            "text": "Samoan"
           },
           "term_start5": {
             "text": "9 April 2021"
@@ -142,7 +142,7 @@
             "text": "Vaimauga West"
           },
           "parliament6": {
-            "text": "Samoa"
+            "text": "Samoan"
           },
           "term_start6": {
             "text": "4 March 2011"
@@ -206,6 +206,9 @@
           "publisher": "Talamua Online",
           "access-date": "5 September 2021",
           "date": "29 July 2021",
+          "archive-url": "https://web.archive.org/web/20210731032947/https://talamua.com/2021/07/30/first-fast-cabinet-down-to-work-when-the-impossible-happens/",
+          "archive-date": "31 July 2021",
+          "url-status": "dead",
           "template": "citation",
           "type": "web"
         }
