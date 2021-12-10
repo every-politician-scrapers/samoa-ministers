@@ -21,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Tuimalealiʻifano Vaʻaletoʻa Eti Sualauvi II (born 29 April 1947) is a Samoan politician who is the current O le Ao o le Malo (head of state) of Samoa, in office since 2017.",
+              "text": "Afioga Tuimalealiʻifano Vaʻaletoʻa Eti Sualauvi II (born 29 April 1947) is a Samoan politician who is the current O le Ao o le Malo (head of state) of Samoa, in office since 2017.",
               "links": [
                 {
                   "type": "internal",
@@ -34,6 +34,7 @@
               ],
               "formatting": {
                 "bold": [
+                  "Afioga",
                   "Tuimalealiʻifano Vaʻaletoʻa Eti Sualauvi II"
                 ]
               }
@@ -64,7 +65,7 @@
       "infoboxes": [
         {
           "honorific_prefix": {
-            "text": "His Highness",
+            "text": "His Highness Afioga",
             "links": [
               {
                 "type": "internal",
@@ -170,6 +171,17 @@
           "archive-date": "13 July 2017",
           "archive-url": "https://web.archive.org/web/20170713165101/http://www.samoagovt.ws/team/council-of-deputies/",
           "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "O le Ao o le Malo",
+          "url": "https://www.samoagovt.ws/directories/head-of-state/",
+          "publisher": "Government of Samoa",
+          "access-date": "9 December 2021",
+          "archive-url": "https://web.archive.org/web/20211204213029/http://www.samoagovt.ws/directories/head-of-state/",
+          "archive-date": "4 December 2021",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
