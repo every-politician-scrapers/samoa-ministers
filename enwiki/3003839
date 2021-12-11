@@ -1,5 +1,5 @@
 {
-  "title": "Naomi Mataʻafa",
+  "title": "Fiamē Naomi Mataʻafa",
   "pageID": 3003839,
   "categories": [
     "1957 births",
@@ -135,11 +135,6 @@
           "template": "short description"
         },
         {
-          "1": "Fiamē Naomi Mata‘afa",
-          "2": "Talk:Naomi Mataʻafa#Requested move 30 November 2021",
-          "template": "user:rmcd bot/subject notice"
-        },
-        {
           "date": "July 2021",
           "template": "use dmy dates"
         },
@@ -241,9 +236,10 @@
             ]
           },
           "deputy1": {
-            "text": "Tuala Tevaga Iosefo Ponifasio",
+            "text": "Tuala Iosefo Ponifasio",
             "links": [
               {
+                "text": "Tuala Iosefo Ponifasio",
                 "type": "internal",
                 "page": "Tuala Tevaga Iosefo Ponifasio"
               }
