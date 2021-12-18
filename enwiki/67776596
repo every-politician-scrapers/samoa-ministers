@@ -106,6 +106,31 @@
                   "page": "Land and Titles Bill"
                 }
               ]
+            },
+            {
+              "text": "Attorney-General Su'a Hellene Wallwork subsequently issued a formal opinion that the lack of appointment provisions meant that no appointments could be made until further legislation had been passed, and that the Komisi o Fa'amasinoga o Fanua ma Suafa, intended to be an appointments and supervisory body for the court, was legally powerless.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Su'a Hellene Wallwork"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Komisi o Fa'amasinoga o Fanua ma Suafa"
+                ]
+              }
+            },
+            {
+              "text": "On this basis, Matamua ordered the Ministry of Justice and Courts Administration not to progress the appointments in any way."
+            },
+            {
+              "text": "Despite this, on 17 December 2021 Fepulea'i purported to swear in Faimalomatumua and two other judges without warrants of appointment from the O le Ao o le Malo, claiming the appointments were \"made by God\".",
+              "formatting": {
+                "italic": [
+                  "O le Ao o le Malo"
+                ]
+              }
             }
           ]
         }
@@ -255,6 +280,26 @@
           "type": "web"
         },
         {
+          "url": "https://www.samoaobserver.ws/category/samoa/95987",
+          "title": "A.G. advice against L.T.C. appointment",
+          "author": "Matai'a Lanuola Tusani T - Ah Tong",
+          "publisher": "Samoa Observer",
+          "date": "14 December 2021",
+          "access-date": "17 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.samoaobserver.ws/category/samoa/95739",
+          "title": "L.T.C. Commission powerless: A.G.",
+          "author": "Sialai Sarafina Sanerivi",
+          "publisher": "Samoa Observer",
+          "date": "15 December 2021",
+          "access-date": "17 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "https://www.samoaobserver.ws/category/article/74762",
           "title": "Matamua follows late husband's footsteps",
           "author": "Sialai Sarafina Sanerivi",
@@ -271,6 +316,16 @@
           "author": "Lanuola Tusani Tupufia - Ah Tong",
           "date": "23 July 2021",
           "access-date": "23 July 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.samoaobserver.ws/category/samoa/96227",
+          "title": "\"Appointments made by God\": L.T.C. President",
+          "author": "Sialai Sarafina Sanerivi",
+          "publisher": "Samoa Observer",
+          "date": "17 December 2021",
+          "access-date": "17 December 2021",
           "template": "citation",
           "type": "web"
         }
