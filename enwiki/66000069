@@ -134,6 +134,10 @@
           "template": "short description"
         },
         {
+          "date": "December 2021",
+          "template": "use dmy dates"
+        },
+        {
           "list": [
             "Disputed: 24 May 2021 – 23 July 2021"
           ],
@@ -164,11 +168,11 @@
             ]
           },
           "primeminister": {
-            "text": "Fiame Naomi Mataʻafa",
+            "text": "Fiamē Naomi Mataʻafa",
             "links": [
               {
                 "type": "internal",
-                "page": "Fiame Naomi Mataʻafa"
+                "page": "Fiamē Naomi Mataʻafa"
               }
             ]
           },
