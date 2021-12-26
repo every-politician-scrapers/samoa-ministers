@@ -61,29 +61,54 @@
                   "matai"
                 ]
               }
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "She is the first woman to be appointed to cabinet, and is Samoa's first female deputy prime minister, and prime minister.",
-              "links": [
-                {
-                  "text": "cabinet",
-                  "type": "internal",
-                  "page": "Cabinet of Samoa"
-                }
-              ]
-            },
-            {
-              "text": "Mata'afa is the daughter of Samoa's first Prime Minister, Fiame Mataafa Faumuina Mulinuu II, and she is the first head of government to not be a member of the Human Rights Protection Party since 1982.",
+              "text": "The daughter of Samoa's first prime minister Fiamē Mataʻafa Faumuina Mulinuʻu II, Mata'afa is the first woman to serve as Samoa's head of government and the first to not be a member of the Human Rights Protection Party (HRPP) since 1982.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Fiame Mataafa Faumuina Mulinuu II"
+                  "page": "Fiamē Mataʻafa Faumuina Mulinuʻu II"
                 },
                 {
                   "type": "internal",
                   "page": "Human Rights Protection Party"
                 }
               ]
+            },
+            {
+              "text": "A member of the HRPP until 2020, she was the first woman appointed to cabinet in Samoa's history."
+            },
+            {
+              "text": "Mata'afa was the Minister of Education from 1991 to 2006 in the governments of prime ministers Tofilau Eti Alesana and Tuila'epa Sa'ilele Malielegaoi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tofilau Eti Alesana"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tuila'epa Sa'ilele Malielegaoi"
+                }
+              ]
+            },
+            {
+              "text": "In addition, she was the Minister of Women from 2006 to 2011 and Minister of Justice from 2011 to 2016."
+            },
+            {
+              "text": "Mata'afa served as Samoa's first female deputy prime minister and deputy leader of the HRPP from 2016 to 2020, resigning in opposition to the controversial Land and Titles Bill.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Land and Titles Bill"
+                }
+              ]
+            },
+            {
+              "text": "The following year she joined the newly founded FAST party and was unanimously elected its leader in March 2021."
             }
           ]
         },
@@ -172,12 +197,6 @@
           "day": "29",
           "df": "y",
           "template": "birth date and age"
-        },
-        {
-          "template": "okina"
-        },
-        {
-          "template": "okina"
         },
         {
           "template": "okina"
