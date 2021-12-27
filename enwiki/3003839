@@ -80,7 +80,14 @@
               ]
             },
             {
-              "text": "A member of the HRPP until 2020, she was the first woman appointed to cabinet in Samoa's history."
+              "text": "A member of the HRPP until 2020, she was the first woman appointed to Cabinet in Samoa's history.",
+              "links": [
+                {
+                  "text": "Cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Samoa"
+                }
+              ]
             },
             {
               "text": "Mata'afa was the Minister of Education from 1991 to 2006 in the governments of prime ministers Tofilau Eti Alesana and Tuila'epa Sa'ilele Malielegaoi.",
