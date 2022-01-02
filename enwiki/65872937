@@ -162,41 +162,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.samoaobserver.ws/category/editorial/27070",
-          "title": "Different name, same man",
-          "author": "Mata'afa Keni Lesa",
-          "publisher": "Samoa Observer",
-          "date": "10 March 2016",
-          "access-date": "18 November 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "First FAST Cabinet Down to Work – When the Impossible Happens",
-          "url": "https://talamua.com/2021/07/30/first-fast-cabinet-down-to-work-when-the-impossible-happens/",
-          "publisher": "Talamua Online",
-          "access-date": "5 September 2021",
-          "date": "29 July 2021",
-          "archive-url": "https://web.archive.org/web/20210731032947/https://talamua.com/2021/07/30/first-fast-cabinet-down-to-work-when-the-impossible-happens/",
-          "archive-date": "31 July 2021",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Minister of Works, Transportation and Infrastructure",
-          "url": "https://www.samoagovt.ws/minister-mwti_olo/",
-          "website": "www.samoagovt.ws",
-          "access-date": "9 December 2021",
-          "archive-url": "https://web.archive.org/web/20211116023225/https://www.samoagovt.ws/minister-mwti_olo/",
-          "archive-date": "16 November 2021",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

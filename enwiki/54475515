@@ -161,53 +161,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.samoagovt.ws/team/council-of-deputies",
-          "title": "Tui A'ana Tuimaleali'ifano Va'aleto'a Sualauvi II",
-          "publisher": "Government of Samoa",
-          "access-date": "5 July 2017",
-          "archive-date": "13 July 2017",
-          "archive-url": "https://web.archive.org/web/20170713165101/http://www.samoagovt.ws/team/council-of-deputies/",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "O le Ao o le Malo",
-          "url": "https://www.samoagovt.ws/directories/head-of-state/",
-          "publisher": "Government of Samoa",
-          "access-date": "9 December 2021",
-          "archive-url": "https://web.archive.org/web/20211204213029/http://www.samoagovt.ws/directories/head-of-state/",
-          "archive-date": "4 December 2021",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.radionz.co.nz/international/pacific-news/334479/new-head-of-state-for-samoa",
-          "title": "New head of state for Samoa",
-          "work": "Radio NZ",
-          "access-date": "6 July 2017",
-          "archive-date": "4 July 2017",
-          "archive-url": "https://web.archive.org/web/20170704225320/http://www.radionz.co.nz/international/pacific-news/334479/new-head-of-state-for-samoa",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.samoaobserver.ws/en/06_07_2017/editorial/21890/Tuimaleali%E2%80%99ifano-Va%E2%80%99aleto'a-Sualauvi-II-is-Samoa%E2%80%99s-new-Head-of-State.htm",
-          "title": "Tuimaleali’ifano Va’aleto'a Sualauvi II, is Samoa’s fourth Head of State",
-          "date": "5 July 2017",
-          "work": "Samoa Observer",
-          "access-date": "5 July 2017",
-          "archive-date": "26 February 2019",
-          "archive-url": "https://web.archive.org/web/20190226050007/http://www.samoaobserver.ws/en/06_07_2017/editorial/21890/Tuimaleali%E2%80%99ifano-Va%E2%80%99aleto'a-Sualauvi-II-is-Samoa%E2%80%99s-new-Head-of-State.htm",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
