@@ -287,49 +287,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.rnz.co.nz/international/pacific-news/434430/samoa-s-former-deputy-pm-to-join-new-political-party",
-          "title": "Samoa's former deputy pm to join new political party",
-          "publisher": "RNZ",
-          "date": "13 January 2021",
-          "access-date": "18 March 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.samoaobserver.ws/category/samoa/71202",
-          "title": "Chiefs defend \"La'aulialemalietoa\" title",
-          "publisher": "Samoa Observer",
-          "author": "Sialai Sarafina Sanerivi",
-          "date": "22 September 2020",
-          "access-date": "5 February 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.fastparty.ws/ouraiga",
-          "title": "Our Aiga",
-          "via": "fastparty.was",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.rnz.co.nz/international/pacific-news/437992/fiame-to-lead-samoa-s-fast-party",
-          "title": "Fiame to lead Samoa's FAST Party",
-          "publisher": "RNZ",
-          "date": "9 March 2021",
-          "access-date": "18 March 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
