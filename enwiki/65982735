@@ -161,7 +161,7 @@
             "text": "Fiamē Naomi Mata‘afa"
           },
           "constituency_mp5": {
-            "text": "Aana Alofi No. 4"
+            "text": "A'ana Alofi No. 4"
           },
           "parliament5": {
             "text": "Samoan"
@@ -170,13 +170,12 @@
             "text": "9 April 2021"
           },
           "predecessor5": {
-            "text": "Afamasaga Rico Tupai",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Afamasaga Rico Tupai"
-              }
-            ]
+            "text": "Constituency established",
+            "formatting": {
+              "italic": [
+                "Constituency established"
+              ]
+            }
           },
           "constituency_mp6": {
             "text": "A'ana Alofi No. 3"
