@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Tuala Tevaga Iosefo Ponifasio is a Samoan politician, lawyer and Cabinet Minister who has served as the deputy prime minister of Samoa since 2021.",
+              "text": "Afioga Tuala Tevaga Iosefo Ponifasio is a Samoan politician, lawyer and Cabinet Minister who has served as the deputy prime minister of Samoa since 2021.",
               "links": [
                 {
                   "text": "Samoan",
@@ -34,6 +34,7 @@
               ],
               "formatting": {
                 "bold": [
+                  "Afioga",
                   "Tuala Tevaga Iosefo Ponifasio"
                 ]
               }
@@ -69,7 +70,7 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "The Honourable",
+            "text": "The Honourable Afioga",
             "links": [
               {
                 "type": "internal",
