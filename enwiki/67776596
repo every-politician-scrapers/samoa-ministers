@@ -59,15 +59,16 @@
               ]
             },
             {
-              "text": "She was first elected to the Legislative Assembly of Samoa in the April 2021 Samoan general election, defeating finance minister Sili Epa Tuioti.",
+              "text": "She was first elected to the Legislative Assembly of Samoa in the 2021 Samoan general election, defeating finance minister Sili Epa Tuioti.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Legislative Assembly of Samoa"
                 },
                 {
+                  "text": "2021 Samoan general election",
                   "type": "internal",
-                  "page": "April 2021 Samoan general election"
+                  "page": "2021 Samoan general election"
                 },
                 {
                   "type": "internal",
@@ -190,7 +191,7 @@
             ]
           },
           "constituency_mp15": {
-            "text": "Faasaleleaga No. 1"
+            "text": "Fa'asalele'aga No. 1"
           },
           "parliament15": {
             "text": "Samoan"
