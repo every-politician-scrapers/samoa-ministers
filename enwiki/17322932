@@ -88,6 +88,9 @@
           "template": "okina"
         },
         {
+          "template": "okina"
+        },
+        {
           "template": "collapsed infobox section end"
         }
       ],
@@ -184,8 +187,10 @@
             "text": "Leader of Faatuatua i le Atua Samoa ua Tasi",
             "links": [
               {
+                "text": "Leader of Faatuatua i le Atua Samoa ua Tasi",
                 "type": "internal",
-                "page": "Faatuatua i le Atua Samoa ua Tasi"
+                "page": "Faatuatua i le Atua Samoa ua Tasi ",
+                "anchor": "Leadership"
               }
             ]
           },
@@ -248,7 +253,7 @@
             ]
           },
           "constituency_mp9": {
-            "text": "Gagaifomauga No. 3"
+            "text": "Gaga'ifomauga No. 3"
           },
           "parliament9": {
             "text": "Samoan"
