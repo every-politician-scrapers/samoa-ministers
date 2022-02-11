@@ -250,6 +250,16 @@
               }
             ]
           },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of parliament"
+              }
+            ]
+          },
           "image": {
             "text": "Hon. Fiamē Naomi Mata'afa (cropped1).jpg"
           },

@@ -81,6 +81,16 @@
           "name": {
             "text": "Tuala Iosefo Ponifasio"
           },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of parliament"
+              }
+            ]
+          },
           "office": {
             "text": "Deputy Prime Minister of Samoa"
           },
