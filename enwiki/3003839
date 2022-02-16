@@ -313,19 +313,19 @@
             "text": "Leader of Faatuatua i le Atua Samoa ua Tasi"
           },
           "deputy2": {
-            "text": "Laauli Leuatea Polataivao",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Laauli Leuatea Polataivao"
-              }
-            ]
+            "text": "La'auli Leuatea Polataivao"
           },
           "term_start2": {
             "text": "9 March 2021"
           },
           "predecessor2": {
-            "text": "Laauli Leuatea Polataivao"
+            "text": "La'auli Leuatea Polataivao",
+            "links": [
+              {
+                "type": "internal",
+                "page": "La'auli Leuatea Polataivao"
+              }
+            ]
           },
           "office3": {
             "text": "Deputy Prime Minister of Samoa"

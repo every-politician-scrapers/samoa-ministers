@@ -1,5 +1,5 @@
 {
-  "title": "Laaulialemalietoa Leuatea Polataivao",
+  "title": "La'auli Leuatea Polataivao",
   "pageID": 17322932,
   "categories": [
     "Living people",
@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "La'aulialemalietoa Leuatea Polataivao Schmidt is a Samoan politician, Cabinet Minister, and former speaker and deputy speaker of the Samoan Parliament.",
+              "text": "La'aulialemalietoa Leuatea Polataivao Fosi Schmidt is a Samoan politician, Cabinet Minister, and former speaker and deputy speaker of the Samoan Parliament.",
               "links": [
                 {
                   "text": "Samoan",
@@ -39,7 +39,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "La'aulialemalietoa Leuatea Polataivao Schmidt"
+                  "La'aulialemalietoa Leuatea Polataivao Fosi Schmidt"
                 ]
               }
             },
@@ -104,9 +104,6 @@
                 "page": "The Honourable"
               }
             ]
-          },
-          "name": {
-            "text": "Laaulialemalietoa Leuatea Polataivao"
           },
           "image": {
             "text": "Laaulialemalietoa Leuatea Polataivao Fosi Schmidt.jpg"
@@ -271,7 +268,7 @@
             ]
           },
           "birth_name": {
-            "text": "La'aulialemalietoa Leuatea Polataivao Fosi Schmidt"
+            "text": "Leuatea Polataivao Fosi Schmidt"
           },
           "party": {
             "text": "Faatuatua i le Atua Samoa ua Tasi (2020-present)",
