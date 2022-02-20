@@ -230,11 +230,18 @@
               }
             ]
           },
-          "constituency_mp10": {
-            "text": "Fa'asalele'aga No. 3"
+          "office10": {
+            "text": "Member of the Samoan Parliament",
+            "links": [
+              {
+                "text": "Samoan Parliament",
+                "type": "internal",
+                "page": "Legislative Assembly of Samoa"
+              }
+            ]
           },
-          "parliament10": {
-            "text": "Samoan"
+          "constituency10": {
+            "text": "Fa'asalele'aga No. 3"
           },
           "term_start10": {
             "text": "9 April 2021"
@@ -248,11 +255,8 @@
               }
             ]
           },
-          "constituency_mp11": {
+          "constituency11": {
             "text": "Fa'asalele'aga No. 2"
-          },
-          "parliament11": {
-            "text": "Samoan"
           },
           "term_start11": {
             "text": "4 March 2011"

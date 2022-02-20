@@ -161,11 +161,18 @@
           "successor4": {
             "text": "Fiamē Naomi Mata‘afa"
           },
-          "constituency_mp5": {
-            "text": "A'ana Alofi No. 4"
+          "office5": {
+            "text": "Member of the Samoan Parliament",
+            "links": [
+              {
+                "text": "Samoan Parliament",
+                "type": "internal",
+                "page": "Legislative Assembly of Samoa"
+              }
+            ]
           },
-          "parliament5": {
-            "text": "Samoan"
+          "constituency5": {
+            "text": "A'ana Alofi No. 4"
           },
           "term_start5": {
             "text": "9 April 2021"
@@ -178,7 +185,7 @@
               ]
             }
           },
-          "constituency_mp6": {
+          "constituency6": {
             "text": "A'ana Alofi No. 3"
           },
           "parliament6": {
@@ -209,16 +216,21 @@
             ]
           },
           "party": {
-            "text": "Tautua Samoa Party\nF.A.S.T.",
+            "text": "F.A.S.T. (2021–present)",
             "links": [
-              {
-                "type": "internal",
-                "page": "Tautua Samoa Party"
-              },
               {
                 "text": "F.A.S.T.",
                 "type": "internal",
                 "page": "Fa'atuatua i le Atua Samoa ua Tasi"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Tautua Samoa Party (until 2021)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tautua Samoa Party"
               }
             ]
           }

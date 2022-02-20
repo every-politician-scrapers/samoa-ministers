@@ -92,7 +92,13 @@
             ]
           },
           "office": {
-            "text": "Deputy Prime Minister of Samoa"
+            "text": "Deputy Prime Minister of Samoa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Samoa"
+              }
+            ]
           },
           "primeminister": {
             "text": "Fiamē Naomi Mataʻafa",
