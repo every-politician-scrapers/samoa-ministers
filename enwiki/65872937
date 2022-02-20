@@ -89,24 +89,48 @@
             "text": "24 May 2021"
           },
           "predecessor4": {
-            "text": "Niko Lee Hang",
+            "text": "Tapunuu Niko Lee Hang",
             "links": [
               {
                 "type": "internal",
-                "page": "Niko Lee Hang"
+                "page": "Tapunuu Niko Lee Hang"
               }
             ]
           },
-          "constituency_mp5": {
-            "text": "Salega East"
+          "office5": {
+            "text": "Member of the Samoan Parliament",
+            "links": [
+              {
+                "text": "Samoan Parliament",
+                "type": "internal",
+                "page": "Legislative Assembly of Samoa"
+              }
+            ]
           },
-          "parliament5": {
-            "text": "Samoan"
+          "constituency5": {
+            "text": "Salega 2"
           },
           "term_start5": {
-            "text": "4 March 2016"
+            "text": "9 April 2021"
           },
           "predecessor5": {
+            "text": "Constituency established",
+            "formatting": {
+              "italic": [
+                "Constituency established"
+              ]
+            }
+          },
+          "constituency6": {
+            "text": "Salega East"
+          },
+          "term_start6": {
+            "text": "4 March 2016"
+          },
+          "term_end6": {
+            "text": "9 April 2021"
+          },
+          "predecessor6": {
             "text": "Tapuai Toese Ah Sam",
             "links": [
               {
@@ -115,19 +139,24 @@
               }
             ]
           },
-          "constituency_mp6": {
+          "successor6": {
+            "text": "Constituency abolished",
+            "formatting": {
+              "italic": [
+                "Constituency abolished"
+              ]
+            }
+          },
+          "constituency7": {
             "text": "Gagaemauga No. 2"
           },
-          "parliament6": {
-            "text": "Samoan"
-          },
-          "term_start6": {
+          "term_start7": {
             "text": "31 March 2006"
           },
-          "term_end6": {
+          "term_end7": {
             "text": "6 November 2015"
           },
-          "predecessor6": {
+          "predecessor7": {
             "text": "Faasootauloa Pati Taulapapa",
             "links": [
               {
@@ -136,7 +165,7 @@
               }
             ]
           },
-          "successor6": {
+          "successor7": {
             "text": "Faasootauloa Pati Taulapapa"
           },
           "party": {
