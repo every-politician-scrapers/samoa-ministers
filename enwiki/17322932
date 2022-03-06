@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "La'aulialemalietoa Leuatea Polataivao Fosi Schmidt is a Samoan politician, Cabinet Minister, and former speaker and deputy speaker of the Samoan Parliament.",
+              "text": "Susuga La'aulialemalietoa Leuatea Polataivao Fosi Schmidt is a Samoan politician, businessman, Cabinet Minister, and former speaker and deputy speaker of the Samoan Parliament.",
               "links": [
                 {
                   "text": "Samoan",
@@ -39,6 +39,7 @@
               ],
               "formatting": {
                 "bold": [
+                  "Susuga",
                   "La'aulialemalietoa Leuatea Polataivao Fosi Schmidt"
                 ]
               }
@@ -76,12 +77,19 @@
           "template": "efn"
         },
         {
+          "list": [
+            "As Minister of Agriculture and Fisheries"
+          ],
+          "template": "efn"
+        },
+        {
           "template": "okina"
         },
         {
           "list": [
             "Other offices held"
           ],
+          "titlestyle": "border:1px dashed lightgrey;",
           "template": "collapsed infobox section begin"
         },
         {
@@ -97,7 +105,7 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "The Honourable",
+            "text": "The Honourable Susuga",
             "links": [
               {
                 "type": "internal",
@@ -151,7 +159,13 @@
             "text": "22 August 2017"
           },
           "predecessor5": {
-            "text": "Office established"
+            "text": "Le Mamea Ropati",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Le Mamea Ropati"
+              }
+            ]
           },
           "successor5": {
             "text": "Lopao'o Natanielu Mua"
