@@ -1,605 +1,66 @@
 {
-  "title": "Fiamē Naomi Mataʻafa",
-  "pageID": 3003839,
-  "categories": [
-    "1957 births",
-    "Living people",
-    "21st-century women politicians",
-    "Attorneys General of Samoa",
-    "Children of national leaders",
-    "Faith in the One True God politicians",
-    "Female foreign ministers",
-    "Female heads of government",
-    "Government ministers of Samoa",
-    "Members of the Legislative Assembly of Samoa",
-    "People educated at Samuel Marsden Collegiate School",
-    "People from Atua (district)",
-    "Prime Ministers of Samoa",
-    "Deputy Prime Ministers of Samoa",
-    "Samoan chiefs",
-    "Samoan Congregationalists",
-    "Victoria University of Wellington alumni",
-    "Women government ministers of Samoa",
-    "Women prime ministers"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Afioga Fiamē Naomi Mataafa (born 29 April 1957) is a Samoan politician and High Chiefess (matai) who has served as the seventh Prime Minister of Samoa and leader of the Faatuatua i le Atua Samoa ua Tasi (FAST) party since 2021.",
-              "links": [
-                {
-                  "text": "Samoan",
-                  "type": "internal",
-                  "page": "Samoa"
-                },
-                {
-                  "text": "matai",
-                  "type": "internal",
-                  "page": "fa'amatai"
-                },
-                {
-                  "text": "Prime Minister of Samoa",
-                  "type": "internal",
-                  "page": "prime minister of Samoa"
-                },
-                {
-                  "type": "internal",
-                  "page": "Faatuatua i le Atua Samoa ua Tasi"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Afioga",
-                  "Fiamē Naomi Mataafa"
-                ],
-                "italic": [
-                  "matai"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The daughter of Samoa's first prime minister Fiamē Mataʻafa Faumuina Mulinuʻu II, Mata'afa is the first woman to serve as Samoa's head of government and the first to not be a member of the Human Rights Protection Party (HRPP) since 1982.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Fiamē Mataʻafa Faumuina Mulinuʻu II"
-                },
-                {
-                  "type": "internal",
-                  "page": "Human Rights Protection Party"
-                }
-              ]
-            },
-            {
-              "text": "A member of the HRPP until 2020, she was the first woman appointed to Cabinet in Samoa's history.",
-              "links": [
-                {
-                  "text": "Cabinet",
-                  "type": "internal",
-                  "page": "Cabinet of Samoa"
-                }
-              ]
-            },
-            {
-              "text": "Mata'afa was the Minister of Education from 1991 to 2006 in the governments of prime ministers Tofilau Eti Alesana and Tuila'epa Sa'ilele Malielegaoi.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Tofilau Eti Alesana"
-                },
-                {
-                  "type": "internal",
-                  "page": "Tuila'epa Sa'ilele Malielegaoi"
-                }
-              ]
-            },
-            {
-              "text": "In addition, she was the Minister of Women from 2006 to 2011 and Minister of Justice from 2011 to 2016."
-            },
-            {
-              "text": "Mata'afa served as Samoa's first female deputy prime minister and deputy leader of the HRPP from 2016 to 2020, resigning in opposition to the controversial Land and Titles Bill.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Land and Titles Bill"
-                }
-              ]
-            },
-            {
-              "text": "The following year she joined the newly founded FAST party and was unanimously elected its leader in March 2021."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Mataafa won a majority in the 2021 election, but defeated Prime Minister Tuila'epa Sa'ilele Malielegaoi refused to leave office, leading to the 2021 Samoan constitutional crisis.",
-              "links": [
-                {
-                  "text": "2021 election",
-                  "type": "internal",
-                  "page": "2021 Samoan general election"
-                },
-                {
-                  "type": "internal",
-                  "page": "Tuila'epa Sa'ilele Malielegaoi"
-                },
-                {
-                  "text": "2021 Samoan constitutional crisis",
-                  "type": "internal",
-                  "page": "2021 Samoan constitutional crisis"
-                }
-              ]
-            },
-            {
-              "text": "The crisis was resolved by Samoa's Court of Appeal on 23 July 2021, which ruled that Mataafa had been prime minister since 24 May."
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "file": "File:AGJP BRIDGE training workshop - Samoa (14048048729).jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/AGJP_BRIDGE_training_workshop_-_Samoa_(14048048729).jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/AGJP_BRIDGE_training_workshop_-_Samoa_(14048048729).jpg",
-          "caption": "Fiamē Naomi Mataafa speaking at the Advancing Gender Justice Programme BRIDGE training workshop, in Samoa, 19 January 2014",
-          "links": []
-        },
-        {
-          "file": "File:Condoleezza Rice with Pacific leaders in Apia.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Condoleezza_Rice_with_Pacific_leaders_in_Apia.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Condoleezza_Rice_with_Pacific_leaders_in_Apia.jpg",
-          "caption": "Fiamē Naomi Mataafa (standing, far left) at a meeting of Pacific Islands leaders with US Secretary of State Condoleezza Rice (center), in Samoa, 26 July 2008",
-          "links": []
-        }
-      ],
-      "templates": [
-        {
-          "description": "7th prime minister of Samoa",
-          "template": "short description"
-        },
-        {
-          "date": "July 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Disputed: 24 May 2021 – 23 July 2021"
-          ],
-          "template": "efn"
-        },
-        {
-          "template": "okina"
-        },
-        {
-          "template": "okina"
-        },
-        {
-          "list": [
-            "Other offices held"
-          ],
-          "titlestyle": "border:1px dashed lightgrey;",
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "list": [
-            "Disputed with Tuila'epa Sa'ilele Malielegaoi"
-          ],
-          "template": "efn"
-        },
-        {
-          "template": "okina"
-        },
-        {
-          "template": "collapsed infobox section end"
-        },
-        {
-          "year": "1957",
-          "month": "4",
-          "day": "29",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "template": "okina"
-        },
-        {
-          "template": "okina"
-        },
-        {
-          "template": "okina"
-        },
-        {
-          "template": "okina"
-        },
-        {
-          "template": "okina"
-        },
-        {
-          "template": "okina"
-        },
-        {
-          "template": "okina"
-        },
-        {
-          "template": "okina"
-        },
-        {
-          "template": "okina"
-        },
-        {
-          "template": "okina"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable Afioga",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "Hon. Fiamē Naomi Mata'afa (cropped1).jpg"
-          },
-          "caption": {
-            "text": "Fiamē Naomi Mataʻafa in 2021"
-          },
-          "office": {
-            "text": "7th Prime Minister of Samoa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prime Minister of Samoa"
-              }
-            ]
-          },
-          "deputy1": {
-            "text": "Tuala Iosefo Ponifasio",
-            "links": [
-              {
-                "text": "Tuala Iosefo Ponifasio",
-                "type": "internal",
-                "page": "Tuala Tevaga Iosefo Ponifasio"
-              }
-            ]
-          },
-          "1blankname": {
-            "text": "O le Ao o le Malo"
-          },
-          "1namedata": {
-            "text": "Tuimalealiʻifano Vaʻaletoʻa Sualauvi II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tuimalealiʻifano Vaʻaletoʻa Sualauvi II"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "24 May 2021"
-          },
-          "predecessor1": {
-            "text": "Tuila'epa Sa'ilele Malielegaoi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tuila'epa Sa'ilele Malielegaoi"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Leader of Faatuatua i le Atua Samoa ua Tasi"
-          },
-          "deputy2": {
-            "text": "La'auli Leuatea Polataivao"
-          },
-          "term_start2": {
-            "text": "9 March 2021"
-          },
-          "predecessor2": {
-            "text": "La'auli Leuatea Polataivao",
-            "links": [
-              {
-                "type": "internal",
-                "page": "La'auli Leuatea Polataivao"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy Prime Minister of Samoa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Prime Minister of Samoa"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "19 March 2016"
-          },
-          "term_end3": {
-            "text": "11 September 2020"
-          },
-          "primeminister3": {
-            "text": "Tuila'epa Sa'ilele Malielegaoi"
-          },
-          "predecessor3": {
-            "text": "Fonotoe Pierre Lauofo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fonotoe Pierre Lauofo"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Tuala Iosefo Ponifasio (2021)"
-          },
-          "office4": {
-            "text": "Minister of Natural Resources and Environment"
-          },
-          "term_start4": {
-            "text": "3 June 2021"
-          },
-          "term_end4": {
-            "text": "20 October 2021"
-          },
-          "predecessor4": {
-            "text": "Toeolesulusulu Cedric Schuster",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Toeolesulusulu Cedric Schuster"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Toeolesulusulu Cedric Schuster"
-          },
-          "term_start5": {
-            "text": "19 March 2016"
-          },
-          "term_end5": {
-            "text": "11 September 2020"
-          },
-          "predecessor5": {
-            "text": "Faamoetauloa Ulaitino Faale Tumaalii",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Faamoetauloa Ulaitino Faale Tumaalii"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Tuila'epa Sa'ilele Malielegaoi"
-          },
-          "primeminister5": {
-            "text": "Tuila'epa Sa'ilele Malielegaoi"
-          },
-          "office6": {
-            "text": "Deputy Leader of the Human Rights Protection Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Human Rights Protection Party"
-              }
-            ]
-          },
-          "leader6": {
-            "text": "Tuila'epa Sa'ilele Malielegaoi"
-          },
-          "term_start6": {
-            "text": "6 March 2016"
-          },
-          "term_end6": {
-            "text": "11 September 2020"
-          },
-          "predecessor6": {
-            "text": "Fonotoe Pierre Lauofo"
-          },
-          "successor6": {
-            "text": "Fonotoe Pierre Lauofo"
-          },
-          "office7": {
-            "text": "Minister of Justice",
-            "links": [
-              {
-                "text": "Minister of Justice",
-                "type": "internal",
-                "page": "Ministry of Justice and Courts Administration (Samoa)"
-              }
-            ]
-          },
-          "primeminister7": {
-            "text": "Tuila'epa Sa'ilele Malielegaoi"
-          },
-          "term_start7": {
-            "text": "21 March 2011"
-          },
-          "term_end7": {
-            "text": "18 March 2016"
-          },
-          "predecessor7": {
-            "text": "Unasa Mesi Galo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Unasa Mesi Galo"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Faaolesa Katopau Ainuu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Faaolesa Katopau Ainuu"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Minister of Women, Community and Social Development"
-          },
-          "primeminister8": {
-            "text": "Tuila'epa Sa'ilele Malielegaoi"
-          },
-          "term_start8": {
-            "text": "24 April 2006"
-          },
-          "term_end8": {
-            "text": "21 March 2011"
-          },
-          "predecessor8": {
-            "text": "Tuala Ainiu Iusitino",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tuala Ainiu Iusitino"
-              }
-            ]
-          },
-          "successor8": {
-            "text": "Tolofuaivalelei Falemoe Leiataua",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tolofuaivalelei Falemoe Leiataua"
-              }
-            ]
-          },
-          "office9": {
-            "text": "Minister of Education"
-          },
-          "primeminister9": {
-            "text": "Tofilau Eti Alesana Tuila'epa Sa'ilele Malielegaoi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tofilau Eti Alesana"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "15 May 1991"
-          },
-          "term_end9": {
-            "text": "24 April 2006"
-          },
-          "successor9": {
-            "text": "Toomata Alapati Poese",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Toomata Alapati Poese"
-              }
-            ]
-          },
-          "constituency_mp15": {
-            "text": "Lotofaga"
-          },
-          "parliament15": {
-            "text": "Samoan"
-          },
-          "term_start15": {
-            "text": "22 February 1985"
-          },
-          "predecessor15": {
-            "text": "Asiasiau Sausoo"
-          },
-          "birth_name": {
-            "text": "Naomi Mataʻafa"
-          },
-          "birth_date": {
-            "text": "April 29, 1957"
-          },
-          "birth_place": {
-            "text": "Apia, Western Samoa Trust Territory (now Samoa)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Apia"
-              },
-              {
-                "type": "internal",
-                "page": "Western Samoa Trust Territory"
-              },
-              {
-                "type": "internal",
-                "page": "Samoa"
-              }
-            ]
-          },
-          "party": {
-            "text": "Faatuatua i le Atua Samoa ua Tasi (2021–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Faatuatua i le Atua Samoa ua Tasi"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Human Rights Protection Party (before 2020) Independent (2020–2021)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Human Rights Protection Party"
-              },
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
-          },
-          "parents": {
-            "text": "Fiamē Mataafa Faumuina Mulinuu II (father) Laulu Fetauimalemau Mataafa (mother)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fiamē Mataafa Faumuina Mulinuu II"
-              },
-              {
-                "type": "internal",
-                "page": "Laulu Fetauimalemau Mataafa"
-              }
-            ]
-          },
-          "education": {
-            "text": "Victoria University of Wellington",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Victoria University of Wellington"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable Afioga",
+  "honorific-suffix": "MP",
+  "image": "Hon. Fiamē Naomi Mata'afa (cropped1).jpg",
+  "caption": "Fiamē Naomi Mataʻafa in 2021",
+  "office": "7th Prime Minister of Samoa",
+  "deputy1": "Tuala Iosefo Ponifasio",
+  "1blankname": "O le Ao o le Malo",
+  "1namedata": "Tuimalealiʻifano Vaʻaletoʻa Sualauvi II",
+  "term_start": "24 May 2021",
+  "predecessor1": "Tuila'epa Sa'ilele Malielegaoi",
+  "office2": "Leader of Faatuatua i le Atua Samoa ua Tasi",
+  "deputy2": "La'auli Leuatea Polataivao",
+  "term_start2": "9 March 2021",
+  "predecessor2": "La'auli Leuatea Polataivao",
+  "office3": "Deputy Prime Minister of Samoa",
+  "term_start3": "19 March 2016",
+  "term_end3": "11 September 2020",
+  "primeminister3": "Tuila'epa Sa'ilele Malielegaoi",
+  "predecessor3": "Fonotoe Pierre Lauofo",
+  "successor3": "Tuala Iosefo Ponifasio (2021)",
+  "office4": "Minister of Natural Resources and Environment",
+  "term_start4": "3 June 2021",
+  "term_end4": "20 October 2021",
+  "predecessor4": "Toeolesulusulu Cedric Schuster",
+  "successor4": "Toeolesulusulu Cedric Schuster",
+  "term_start5": "19 March 2016",
+  "term_end5": "11 September 2020",
+  "predecessor5": "Faamoetauloa Ulaitino Faale Tumaalii",
+  "successor5": "Tuila'epa Sa'ilele Malielegaoi",
+  "primeminister5": "Tuila'epa Sa'ilele Malielegaoi",
+  "office6": "Deputy Leader of the Human Rights Protection Party",
+  "leader6": "Tuila'epa Sa'ilele Malielegaoi",
+  "term_start6": "6 March 2016",
+  "term_end6": "11 September 2020",
+  "predecessor6": "Fonotoe Pierre Lauofo",
+  "successor6": "Fonotoe Pierre Lauofo",
+  "office7": "Minister of Justice",
+  "primeminister7": "Tuila'epa Sa'ilele Malielegaoi",
+  "term_start7": "21 March 2011",
+  "term_end7": "18 March 2016",
+  "predecessor7": "Unasa Mesi Galo",
+  "successor7": "Faaolesa Katopau Ainuu",
+  "office8": "Minister of Women, Community and Social Development",
+  "primeminister8": "Tuila'epa Sa'ilele Malielegaoi",
+  "term_start8": "24 April 2006",
+  "term_end8": "21 March 2011",
+  "predecessor8": "Tuala Ainiu Iusitino",
+  "successor8": "Tolofuaivalelei Falemoe Leiataua",
+  "office9": "Minister of Education",
+  "primeminister9": "Tofilau Eti Alesana Tuila'epa Sa'ilele Malielegaoi",
+  "term_start9": "15 May 1991",
+  "term_end9": "24 April 2006",
+  "successor9": "Toomata Alapati Poese",
+  "constituency_mp15": "Lotofaga",
+  "parliament15": "Samoan",
+  "term_start15": "22 February 1985",
+  "predecessor15": "Asiasiau Sausoo",
+  "birth_name": "Naomi Mataʻafa",
+  "birth_date": "April 29, 1957",
+  "birth_place": "Apia, Western Samoa Trust Territory (now Samoa)",
+  "party": "Faatuatua i le Atua Samoa ua Tasi (2021–present)",
+  "otherparty": "Human Rights Protection Party (before 2020) Independent (2020–2021)",
+  "parents": "Fiamē Mataafa Faumuina Mulinuu II (father) Laulu Fetauimalemau Mataafa (mother)",
+  "education": "Victoria University of Wellington"
 }

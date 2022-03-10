@@ -1,241 +1,26 @@
 {
-  "title": "Toeolesulusulu Cedric Schuster",
-  "pageID": 65982735,
-  "categories": [
-    "Living people",
-    "Members of the Legislative Assembly of Samoa",
-    "Environment ministers of Samoa",
-    "Tourism ministers of Samoa",
-    "Samoan chiefs",
-    "Tautua Samoa Party politicians",
-    "Faith in the One True God politicians",
-    "Year of birth missing (living people)",
-    "Brandeis University alumni",
-    "Samoan environmentalists"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Toeolesulusulu Cedric Schuster is a Samoan environmentalist, politician and Cabinet Minister.",
-              "links": [
-                {
-                  "text": "Samoan",
-                  "type": "internal",
-                  "page": "Samoa"
-                },
-                {
-                  "text": "Cabinet Minister",
-                  "type": "internal",
-                  "page": "Cabinet of Samoa"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Toeolesulusulu Cedric Schuster"
-                ]
-              }
-            },
-            {
-              "text": "He is a member of the FAST Party.",
-              "links": [
-                {
-                  "text": "FAST Party",
-                  "type": "internal",
-                  "page": "Fa'atuatua i le Atua Samoa ua Tasi"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Schuster is from the village of Satapuala.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Satapuala"
-                }
-              ]
-            },
-            {
-              "text": "He was educated at the University of Victoria and at Brandeis University in the United States.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Brandeis University"
-                }
-              ]
-            },
-            {
-              "text": "He has previously worked for the World Wide Fund for Nature, the Samoan government's Division of Environment and Conservation, Seacology, and as an environmental consultant.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "World Wide Fund for Nature"
-                },
-                {
-                  "type": "internal",
-                  "page": "Seacology"
-                }
-              ]
-            },
-            {
-              "text": "Schuster is the cousin of Lefau Harry Schuster and the father of swimmer Brandon Schuster.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Lefau Harry Schuster"
-                },
-                {
-                  "type": "internal",
-                  "page": "Brandon Schuster"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Samoan politician",
-          "template": "short description"
-        },
-        {
-          "date": "September 2021",
-          "template": "use dmy dates"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Toeolesulusulu Cedric Schuster"
-          },
-          "office2": {
-            "text": "Minister of Tourism"
-          },
-          "term_start2": {
-            "text": "20 October 2021"
-          },
-          "primeminister2": {
-            "text": "Fiamē Naomi Mataʻafa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fiamē Naomi Mataʻafa"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Fiamē Naomi Mataʻafa"
-          },
-          "office3": {
-            "text": "Minister of Natural Resources and Environment"
-          },
-          "term_start3": {
-            "text": "20 October 2021"
-          },
-          "predecessor3": {
-            "text": "Fiamē Naomi Mata‘afa"
-          },
-          "term_start4": {
-            "text": "24 May 2021"
-          },
-          "term_end4": {
-            "text": "3 June 2021"
-          },
-          "predecessor4": {
-            "text": "Tuila'epa Sa'ilele Malielegaoi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tuila'epa Sa'ilele Malielegaoi"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Fiamē Naomi Mata‘afa"
-          },
-          "office5": {
-            "text": "Member of the Samoan Parliament",
-            "links": [
-              {
-                "text": "Samoan Parliament",
-                "type": "internal",
-                "page": "Legislative Assembly of Samoa"
-              }
-            ]
-          },
-          "constituency5": {
-            "text": "A'ana Alofi No. 4"
-          },
-          "term_start5": {
-            "text": "9 April 2021"
-          },
-          "predecessor5": {
-            "text": "Constituency established",
-            "formatting": {
-              "italic": [
-                "Constituency established"
-              ]
-            }
-          },
-          "constituency6": {
-            "text": "A'ana Alofi No. 3"
-          },
-          "parliament6": {
-            "text": "Samoan"
-          },
-          "term_start6": {
-            "text": "4 March 2011"
-          },
-          "term_end6": {
-            "text": "4 March 2016"
-          },
-          "predecessor6": {
-            "text": "Vaeolenofoafia Tapasu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vaeolenofoafia Tapasu"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Afamasaga Rico Tupai",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Afamasaga Rico Tupai"
-              }
-            ]
-          },
-          "party": {
-            "text": "F.A.S.T. (2021–present)",
-            "links": [
-              {
-                "text": "F.A.S.T.",
-                "type": "internal",
-                "page": "Fa'atuatua i le Atua Samoa ua Tasi"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Tautua Samoa Party (until 2021)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tautua Samoa Party"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Toeolesulusulu Cedric Schuster",
+  "office2": "Minister of Tourism",
+  "term_start2": "20 October 2021",
+  "primeminister2": "Fiamē Naomi Mataʻafa",
+  "predecessor2": "Fiamē Naomi Mataʻafa",
+  "office3": "Minister of Natural Resources and Environment",
+  "term_start3": "20 October 2021",
+  "predecessor3": "Fiamē Naomi Mata‘afa",
+  "term_start4": "24 May 2021",
+  "term_end4": "3 June 2021",
+  "predecessor4": "Tuila'epa Sa'ilele Malielegaoi",
+  "successor4": "Fiamē Naomi Mata‘afa",
+  "office5": "Member of the Samoan Parliament",
+  "constituency5": "A'ana Alofi No. 4",
+  "term_start5": "9 April 2021",
+  "predecessor5": "Constituency established",
+  "constituency6": "A'ana Alofi No. 3",
+  "parliament6": "Samoan",
+  "term_start6": "4 March 2011",
+  "term_end6": "4 March 2016",
+  "predecessor6": "Vaeolenofoafia Tapasu",
+  "successor6": "Afamasaga Rico Tupai",
+  "party": "F.A.S.T. (2021–present)",
+  "otherparty": "Tautua Samoa Party (until 2021)"
 }
