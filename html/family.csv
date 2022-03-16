@@ -1,14 +1,14 @@
 id,name,relationship,relative,relativename
-Q102406339,Toleafoa Faafisi,child,Q106513177,Aiono Afaese Toleafoa
-Q102969894,Toeolesulusulu Cedric Schuster,child,Q26704921,Brandon Schuster
-Q102969894,Toeolesulusulu Cedric Schuster,relative,Q16731362,Lefau Harry Schuster
-Q106513177,Aiono Afaese Toleafoa,father,Q102406339,Toleafoa Faafisi
-Q16731362,Lefau Harry Schuster,relative,Q102969894,Toeolesulusulu Cedric Schuster
-Q317378,Malietoa Tanumafili II,child,Q91229023,Papalii Laupepa
-Q317378,Malietoa Tanumafili II,father,Q3024732,Malietoa Tanumafili I
-Q5446290,Fiamē Naomi Mataʻafa,father,Q1281047,Fiame Mata'afa Faumuina Mulinu'u II
-Q5446290,Fiamē Naomi Mataʻafa,mother,Q16017839,Laulu Fetauimalemau Mata'afa
-Q5527465,Gatoloaifaana Amataga Alesana-Gidlow,father,Q1281027,Tofilau Eti Alesana
-Q5527465,Gatoloaifaana Amataga Alesana-Gidlow,sibling,Q7907778,Va'aelua Eti Alesana
-Q57523,Tufuga Efi,father,Q887243,Tupua Tamasese Meaʻole
-Q57523,Tufuga Efi,mother,Q109732885,Noue Irene Gustava Ta'isi Nelson
+Q102406339,Toleafoa Faafisi,child,Q106513177,
+Q102969894,Toeolesulusulu Cedric Schuster,child,Q26704921,
+Q102969894,Toeolesulusulu Cedric Schuster,relative,Q16731362,
+Q106513177,Aiono Afaese Toleafoa,father,Q102406339,
+Q16731362,Lefau Harry Schuster,relative,Q102969894,
+Q317378,Malietoa Tanumafili II,child,Q91229023,
+Q317378,Malietoa Tanumafili II,father,Q3024732,
+Q5446290,Fiamē Naomi Mataʻafa,father,Q1281047,
+Q5446290,Fiamē Naomi Mataʻafa,mother,Q16017839,
+Q5527465,Gatoloaifaana Amataga Alesana-Gidlow,father,Q1281027,
+Q5527465,Gatoloaifaana Amataga Alesana-Gidlow,sibling,Q7907778,
+Q57523,Tufuga Efi,father,Q887243,
+Q57523,Tufuga Efi,mother,Q109732885,
