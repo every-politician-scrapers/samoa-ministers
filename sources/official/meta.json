@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Samoa",
+      "id": "Q683"
+    },
+    "cabinet": {
+      "id": "Q109705568",
+      "start": "2021-05-24",
+      "parent": "Q5015552"
+    },
+    "source": {
+        "url":   "https://www.samoagovt.ws/directories/cabinet-ministers-2/",
+        "title": "Cabinet Ministers | Minisita o le Kapeneta &#8211; Government of Samoa",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/samoa-ministers"
+}
