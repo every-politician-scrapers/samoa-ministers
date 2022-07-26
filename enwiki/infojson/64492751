@@ -1,0 +1,66 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+
+      ],
+      "stated_as": "Urban West"
+    },
+    "P580": "2016-03-04",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "None (Seat established)"
+    },
+    "P582": "2021-04-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "None (Seat disestablished)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+
+      ],
+      "stated_as": "Faleata No. 2"
+    },
+    "P580": "2021-04-09",
+    "P1365": {
+      "links": [
+        "Taefu Lemi"
+      ],
+      "stated_as": "Taefu Lemi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Commerce, Industry and Labour"
+    },
+    "P580": "2021-05-24",
+    "P1365": {
+      "links": [
+        "Lautafi Fio Selafi Purcell"
+      ],
+      "stated_as": "Lautafi Fio Selafi Purcell"
+    }
+  }
+]

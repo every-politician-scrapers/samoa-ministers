@@ -1,0 +1,38 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+
+      ],
+      "stated_as": "Falealili No. 1"
+    },
+    "P580": "2021-04-09",
+    "P1365": {
+      "links": [
+        "Aumua Isaia Lameko"
+      ],
+      "stated_as": "Aumua Isaia Lameko"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Communications and Information Technology"
+    },
+    "P580": "2021-05-24",
+    "P1365": {
+      "links": [
+        "Afamasaga Rico Tupai"
+      ],
+      "stated_as": "Afamasaga Rico Tupai"
+    }
+  }
+]

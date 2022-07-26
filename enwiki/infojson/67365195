@@ -1,0 +1,53 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+
+      ],
+      "stated_as": "Gaga'emauga No. 1"
+    },
+    "P580": "2021-04-09",
+    "P1365": {
+      "links": [
+        "Sala Fata Pinati"
+      ],
+      "stated_as": "Sala Fata Pinati"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Samoa"
+      ],
+      "stated_as": "Deputy Prime Minister of Samoa"
+    },
+    "P580": "2021-05-24",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Fiamē Naomi Mataʻafa (2020)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Customs and Revenue"
+    },
+    "P580": "2021-05-24",
+    "P1365": {
+      "links": [
+        "Tialavea Tionisio Hunt"
+      ],
+      "stated_as": "Tialavea Tionisio Hunt"
+    }
+  }
+]

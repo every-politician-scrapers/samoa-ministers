@@ -1,0 +1,60 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "1996-04-26",
+    "P1365": {
+      "links": [
+        "Seve Ropati"
+      ],
+      "stated_as": "Seve Ropati"
+    },
+    "P582": "2006-03-31",
+    "P1366": {
+      "links": [
+        "Motuopuaa Uifagasa Aisoli"
+      ],
+      "stated_as": "Motuopuaa Uifagasa Aisoli"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+
+      ],
+      "stated_as": "Vaisigano No. 2"
+    },
+    "P580": "2021-04-09",
+    "P1365": {
+      "links": [
+        "Tapulesatele Mauteni Esera"
+      ],
+      "stated_as": "Tapulesatele Mauteni Esera"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Health"
+    },
+    "P580": "2021-05-24",
+    "P1365": {
+      "links": [
+        "Faimalotoa Kika Stowers"
+      ],
+      "stated_as": "Faimalotoa Kika Stowers"
+    }
+  }
+]

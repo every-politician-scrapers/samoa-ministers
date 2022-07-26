@@ -1,0 +1,120 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+
+      ],
+      "stated_as": "Gaga'ifomauga No. 3"
+    },
+    "P580": "2006-03-31",
+    "P1365": {
+      "links": [
+        "Vagana Pelei'upu Tamate"
+      ],
+      "stated_as": "Vagana Pelei'upu Tamate"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Speakers of the Legislative Assembly of Samoa",
+        "Legislative Assembly of Samoa"
+      ],
+      "stated_as": "Speaker of the Legislative Assembly of Samoa"
+    },
+    "P580": "2011-03-18",
+    "P1365": {
+      "links": [
+        "Tolofuaivalelei Falemoe Lei’ataua"
+      ],
+      "stated_as": "Tolofuaivalelei Falemoe Lei’ataua"
+    },
+    "P582": "2016-03-16",
+    "P1366": {
+      "links": [
+        "Toleafoa Faafisi"
+      ],
+      "stated_as": "Toleafoa Faafisi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Agriculture, Fisheries and Scientific Research"
+    },
+    "P580": "2016-03-19",
+    "P1365": {
+      "links": [
+        "Le Mamea Ropati"
+      ],
+      "stated_as": "Le Mamea Ropati"
+    },
+    "P582": "2017-08-22",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Lopao'o Natanielu Mua"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Faatuatua i le Atua Samoa ua Tasi "
+      ],
+      "stated_as": "Leader of Faatuatua i le Atua Samoa ua Tasi"
+    },
+    "P580": "2020-07-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position Established"
+    },
+    "P582": "2021-03-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Fiamē Naomi Mata'afa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Faatuatua i le Atua Samoa ua Tasi"
+      ],
+      "stated_as": "Deputy Leader of Faatuatua i le Atua Samoa ua Tasi"
+    },
+    "P580": "2021-03-09",
+    "P1365": {
+      "links": [
+        "Olo Fiti Vaai"
+      ],
+      "stated_as": "Olo Fiti Vaai"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Agriculture, Fisheries and Scientific Research"
+    },
+    "P580": "2021-05-24",
+    "P1365": {
+      "links": [
+        "Lopao'o Natanielu Mua"
+      ],
+      "stated_as": "Lopao'o Natanielu Mua"
+    }
+  }
+]
