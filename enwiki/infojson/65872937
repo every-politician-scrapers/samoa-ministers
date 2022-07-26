@@ -1,0 +1,76 @@
+[
+  {
+    "office": {
+      "links": [
+        "Legislative Assembly of Samoa"
+      ],
+      "stated_as": "Member of the Samoan Parliament"
+    },
+    "P580": "2006-03-31",
+    "P1365": {
+      "links": [
+        "Faasootauloa Pati Taulapapa"
+      ],
+      "stated_as": "Faasootauloa Pati Taulapapa"
+    },
+    "P582": "2015-11-06",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Faasootauloa Pati Taulapapa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Legislative Assembly of Samoa"
+      ],
+      "stated_as": "Member of the Samoan Parliament"
+    },
+    "P580": "2016-03-04",
+    "P1365": {
+      "links": [
+        "Tapuai Toese Ah Sam"
+      ],
+      "stated_as": "Tapuai Toese Ah Sam"
+    },
+    "P582": "2021-04-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Legislative Assembly of Samoa"
+      ],
+      "stated_as": "Member of the Samoan Parliament"
+    },
+    "P580": "2021-04-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Works, Transport and Infrastructure"
+    },
+    "P580": "2021-05-24",
+    "P1365": {
+      "links": [
+        "Tapunuu Niko Lee Hang"
+      ],
+      "stated_as": "Tapunuu Niko Lee Hang"
+    }
+  }
+]

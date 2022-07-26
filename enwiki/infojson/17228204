@@ -1,0 +1,104 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "1979-02-24",
+    "P1365": {
+      "links": [
+        "Vaafusuaga Poutoa"
+      ],
+      "stated_as": "Vaafusuaga Poutoa"
+    },
+    "P582": "1988",
+    "P1366": {
+      "links": [
+        "Tuaopepe Fili"
+      ],
+      "stated_as": "Tuaopepe Fili"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Education"
+    },
+    "P580": "1982",
+    "P582": "1985"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Lands Survey, Post Office and Broadcasting"
+    },
+    "P580": "1982",
+    "P582": "1982"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Lefaga",
+        "Falese'ela"
+      ],
+      "stated_as": "Lefaga & Falese'ela"
+    },
+    "P580": "1991-04-05",
+    "P1365": {
+      "links": [
+        "Tuaopepe Fili"
+      ],
+      "stated_as": "Tuaopepe Fili"
+    },
+    "P582": "2016-02-06",
+    "P1366": {
+      "links": [
+        "Toleafoa Ken Vaafusuaga Poutoa"
+      ],
+      "stated_as": "Toleafoa Ken Vaafusuaga Poutoa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Agriculture and Fisheries"
+    },
+    "P580": "2011-03-21",
+    "P1365": {
+      "links": [
+        "Taua Kitiona Seuala"
+      ],
+      "stated_as": "Taua Kitiona Seuala"
+    },
+    "P582": "2016-02-06",
+    "P1366": {
+      "links": [
+        "La'auli Leuatea Polataivao"
+      ],
+      "stated_as": "La'auli Leuatea Polataivao"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Council of Deputies"
+      ],
+      "stated_as": "Member of the Council of Deputies"
+    },
+    "P580": "2016-02-06"
+  }
+]
