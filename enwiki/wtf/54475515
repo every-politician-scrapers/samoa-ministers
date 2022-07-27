@@ -413,6 +413,13 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2022 his term of office was extended until the next parliamentary sitting in August."
+            }
+          ]
         }
       ],
       "templates": [
@@ -462,6 +469,17 @@
           "url-status": "live",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://www.samoaobserver.ws/category/samoa/99204",
+          "title": "Head of State's appointment extended",
+          "author": "Matai'a Lanuola Tusani T - Ah Tong",
+          "work": "Samoa Observer",
+          "date": "26 July 2022",
+          "access-date": "26 July 2022",
+          "url-access": "subscription",
+          "template": "citation",
+          "type": "news"
         },
         {
           "url": "https://www.rnz.co.nz/international/pacific-news/441793/head-of-state-to-call-for-second-election-in-samoa-fast-reacts-with-anger",
